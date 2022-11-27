@@ -1,0 +1,5 @@
+PROBLEMA:calcolo del prezzo del biglietto del treno
+1- Chiedere il numero dei km
+2- Chiedere l'eta
+3- Calcolare il prezzo
+4- Mostrare il prezzo in formato leggibile con massimo due punti decimali
